@@ -1,0 +1,26 @@
+{
+  "authors": [
+    {
+      "name": "raymart",
+      "email": "raymart54@gmail.com"
+    }
+  ],
+  "require-dev": {
+    
+    "squizlabs/php_codesniffer": "3.*",
+    "phpunit/phpunit": "^9.6"
+  },
+  "autoload": {
+    "classmap": [
+      "app/"
+    ]
+  },
+  "require": {
+    
+    
+    
+    "facebook/graph-sdk": "^5.1",
+    "fzaninotto/faker": "^1.5",
+    "ext-json": "*"
+  }
+}
